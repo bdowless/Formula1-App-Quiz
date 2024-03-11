@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "f1-abu-dhabi-gp-2017-f1-logo-6614911.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
